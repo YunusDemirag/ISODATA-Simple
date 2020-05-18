@@ -1,5 +1,5 @@
 # ISODATA-Simple
-This is a simple implementation of the isodata algorithm, made for a university project. 
+This is a simple implementation of the isodata algorithm, made for a university assignment. 
 It is far from optimized, however free for use, edit & replication.
 
 Isodata takes as input:
